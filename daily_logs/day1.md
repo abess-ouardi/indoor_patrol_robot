@@ -15,7 +15,7 @@
 
 ## ✅ What I Did
 
-- Installed ROS2 Humble and set up environment
+- Installed ROS2 Jazz and set up environment
 - Created `indoor_patrol_ws` and `patrol_robot` package
 - Wrote minimal Python ROS2 nodes (1 per behavior)
 - Added `setup.py` with `console_scripts`
