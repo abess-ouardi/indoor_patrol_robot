@@ -1,0 +1,19 @@
+# ROS2 workspace build artifacts
+build/
+install/
+log/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Editor/IDE files
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# ROS2 debug or RViz state
+*.rviz
